@@ -19,10 +19,10 @@ import requests
 # })
 
 # twitter access tokens
-consumer_key = 'ijKQs9Ob2TELNpShq9DV0xiMS'
-consumer_secret = 'fRUQAZdg2tLx6s7lLJXNLC28Bz7gss9CSWmNxyQbd26QRTA13k'
-access_token = '1245375040587100162-AKsyejA78oIHdKdD0s3JNJGibMAhc1'
-access_token_secret = '4IPZcesTyJcJvbEm8C22zAXrQ5hEoS0TFXQki1cCEvlBq'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 api = TwitterAPI(consumer_key, consumer_secret, access_token, access_token_secret)
 
